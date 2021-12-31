@@ -15,6 +15,9 @@ P. Humbert*, B. Le Bars*, L. Oudre, A. Kalogeratos, N. Vayatis. In the Journal o
 [Learning laplacian matrix from bandlimited graph signals.](https://ieeexplore.ieee.org/document/8682769)
 B. Le Bars*, P. Humbert*, L. Oudre, A. Kalogeratos.  In Proceedings of the International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2019.
 
+## Related git-repo:
+https://github.com/alberto-ara/Surface-Laplacian
+
 ## Container
 
 The reposity contains code to reproduce the experiments of the paper.
